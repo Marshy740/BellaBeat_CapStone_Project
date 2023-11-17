@@ -4,4 +4,4 @@ As part of the BellaBeat Capstone project, I undertook a comprehensive data anal
 
 Check out my Tableu for Visuals 
 
-https://public.tableau.com/views/Bellabeat_17002317130650/BellabeatCaseStudy?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Bellabeat_17002317130650/BeallabeatDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
